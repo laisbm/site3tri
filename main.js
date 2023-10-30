@@ -1,0 +1,1 @@
+alert ("Se não existe vida fora da Terra, então o universo é um grande desperdício de espaço.")
